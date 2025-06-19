@@ -1,6 +1,4 @@
 # fc3-sonarcloud
-Exemplo go com sonar cloud
+Exemplo go com sonar cloud utilizando CI
 
-### Passo 1
-- Crie um projeto no sonarcloud
-- Subir o projeto no github no branch main
+Este exemplo, é uma prática baseada no módulo de integração contínua do curso Full Cycle 3.0
